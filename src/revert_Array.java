@@ -5,7 +5,7 @@ public class revert_Array {
         Scanner sc = new Scanner(System.in);
         int[] array = new int[6];
         int[] new_array = new int[6];
-        System.out.println("Enter the Volues of Array:");
+        System.outz.println("Enter the Volues of Array:");
         for(int i=0;i<6;i++)
         {
          array[i] =sc.nextInt();
