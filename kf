@@ -1,0 +1,117 @@
+[33mcommit 052a4c64074f98ef1adbfe6f5142305895a0256b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sugatmoon <sugatmoon17@gmail.com>
+Date:   Sat Mar 16 09:05:43 2024 +0530
+
+    Adding all the new java practice file learn from Abbul bari
+
+[33mcommit 5da7acd9a644de03f9f6773a01484de19f2d7275[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Mon Jan 23 14:12:53 2023 +0530
+
+    add more files java
+
+[33mcommit c291a48da5ad656146b0ce00240b628165674be3[m
+Merge: 5b9019f e7f0510
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 20 09:47:20 2023 +0530
+
+    Merge branch 'sugatmoon'
+
+[33mcommit e7f0510f4712b11f8e44b53e18570d117420eaeb[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 20 09:46:42 2023 +0530
+
+    Add all the solve problem
+
+[33mcommit 5b9019fba6bc999d22f213a3dc676eb384d947cf[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Thu Jan 19 11:30:49 2023 +0530
+
+    Nothing change
+
+[33mcommit 97dd93b27ea66448263001345b2b38cc596c2e40[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Thu Jan 19 11:25:56 2023 +0530
+
+    Add files of datetimeformatter class
+
+[33mcommit 4a61435d978d7244da47e708d7429e19885bc9e8[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Thu Jan 19 10:59:00 2023 +0530
+
+    This is calender class, local class,gregorianCalender class file added
+
+[33mcommit 34837111d04fbc6a8b62c4961be47052cb6e3bfc[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Thu Jan 19 10:55:45 2023 +0530
+
+    the java class file
+
+[33mcommit ebd6f5f49b3f9230281c150ea714ee865955808f[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Thu Jan 19 08:35:37 2023 +0530
+
+    Program of java time
+
+[33mcommit 0766747a605b14564e60bbe439137ead4000cbda[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 13 23:46:12 2023 +0530
+
+    Today work on the exception handling and their programs
+
+[33mcommit 76e0543f2e641fbc5bb2da29a5f661e2149af99f[m
+Merge: 9244b5f 7d8d506
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 13 14:03:32 2023 +0530
+
+    Merge branch 'main' of https://github.com/sugatmoon/Java-Program
+
+[33mcommit 9244b5fcd6176e423a71795fd443b304b88e9da5[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 13 14:00:54 2023 +0530
+
+    try-catch block
+
+[33mcommit 7d8d50614cdbee5c83466c4cdde6743814ee53d5[m
+Author: SUGAT <97450000+sugatmoon@users.noreply.github.com>
+Date:   Fri Jan 13 13:44:46 2023 +0530
+
+    Update README.md
+    
+    I am adding an available word.
+
+[33mcommit 955ea7ba15be8c7ee237e529090cd918a8ff945a[m
+Author: SUGAT <97450000+sugatmoon@users.noreply.github.com>
+Date:   Fri Jan 13 13:43:11 2023 +0530
+
+    Update README.md
+    
+    change by reducing the statement.
+
+[33mcommit bf182953ce93eb0e8a0339b877730fed558c8308[m
+Author: SUGAT <97450000+sugatmoon@users.noreply.github.com>
+Date:   Fri Jan 13 13:41:55 2023 +0530
+
+    Update README.md
+    
+    Reducing the compound statement
+
+[33mcommit 0f09b1c6120ff440c7f977b1b3797ae91d856aed[m
+Author: SUGAT <97450000+sugatmoon@users.noreply.github.com>
+Date:   Fri Jan 13 13:37:32 2023 +0530
+
+    Update README.md
+    
+    This is information about the java-programs repository.
+
+[33mcommit 6bcd76a7af27c7de1f57719ee6fcb2b31173bbf0[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 13 13:28:58 2023 +0530
+
+    first commit
+
+[33mcommit b112a82974ca29a1bef2d61da378ca83e4f131fa[m
+Author: sugat <sugatmoon17@gmail.com>
+Date:   Fri Jan 13 13:27:10 2023 +0530
+
+    Adding all practice programs on git tracking
