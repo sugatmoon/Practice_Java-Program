@@ -1,9 +1,14 @@
+import java.util.Scanner;
+
 public class power {
     public static void main(String[] args) {
-        for(int i = 0; i<10;i++){
-            int c =(2*i);
-            c =+c;
-            System.out.println(c);
-        }
+        Scanner sc = new Scanner(System.in);
+
+        double num = sc.nextInt();
+        double pow = sc.nextInt();
+
+        double y = Math.pow(num,pow);
+        System.out.println(y);
+
     }
 }
